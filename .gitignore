@@ -1,7 +1,9 @@
-/data-analitycs 
+/data-analitycs/anki
+/data-analitycs/csv
+/data-analitycs/data
+/data-analitycs/bucket
 /agents
 /anki
 /csv
 /bucket
-/notebooks
 Untitled.ipynb
